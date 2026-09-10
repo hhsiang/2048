@@ -5,4 +5,4 @@ Recently, on the plane to a friend's wedding, I re-discovered 2048 in the in-fli
 
 It seemed like a fun little project one afternoon while my partner was working, so I coded it up. Just base R (4.6.1), running in the console. To play, just run 2048.R and enjoy!
 
-![](https://github.com/hhsiang/2048/edit/main/2048-game.gif)
+![](https://github.com/hhsiang/2048/blob/main/2048-game.gif)
